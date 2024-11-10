@@ -2,3 +2,4 @@ DeploymentSteps
 SetupInstructions
 DeploymentOptions
 DeploymentWorkflow
+ConfigSettings
