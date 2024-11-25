@@ -3,3 +3,4 @@ SetupInstructions
 DeploymentOptions
 DeploymentWorkflow
 ConfigSettings
+CommunityRules
