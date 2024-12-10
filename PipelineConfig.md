@@ -4,3 +4,4 @@ CICDFeatures
 ToolDependencies
 PipelineExamples
 ContributionGuide
+ErrorHandling
