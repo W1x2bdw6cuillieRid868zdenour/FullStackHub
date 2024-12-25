@@ -5,3 +5,4 @@ ToolDependencies
 PipelineExamples
 ContributionGuide
 ErrorHandling
+LegalNotes

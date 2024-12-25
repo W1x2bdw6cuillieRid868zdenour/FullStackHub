@@ -4,3 +4,4 @@ DeploymentOptions
 DeploymentWorkflow
 ConfigSettings
 CommunityRules
+LicenseDetails
