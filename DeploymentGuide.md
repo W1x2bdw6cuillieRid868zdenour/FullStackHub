@@ -5,3 +5,4 @@ DeploymentWorkflow
 ConfigSettings
 CommunityRules
 LicenseDetails
+DevOpsFAQ
