@@ -7,3 +7,4 @@ CommunityRules
 LicenseDetails
 DevOpsFAQ
 PipelineUpdates
+DeploymentOptimization
