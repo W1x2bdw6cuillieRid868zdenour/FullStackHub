@@ -8,3 +8,4 @@ LicenseDetails
 DevOpsFAQ
 PipelineUpdates
 DeploymentOptimization
+CommunityResources
